@@ -36,12 +36,4 @@ divvy up quadrants- head out.
 - Monday July 13 - Noonish, Meet MAX Expo Center stop. Work our way back to PDX.
 - Monday July 20 - or a date that works for Matt Sayler, meet after work downtown 
 Vancouver. Gab and Go.
-- Monday July 27 - noonish, – <a href="http://www.jadedistrict.org/" target="_blan
-k">Jade District</a>--best if we are invited. And, we'll ask for an invite. Else
-, someplace else.
-
-
-#### FieldPapers Notes
-This is a recently created fieldPaper document--not yet marked up: [Field Paper Example ] (fieldpapers.org/atlas.php?id=llzm3qn3/A1" target="_blank") 
-My attempt to add detail to a park in the Pearl District: <a href="" target="_bl
-ank"><img src=""/></a>
+- Monday July 27 - noonish, – 82nd Ave and Division?  Other ideas?
