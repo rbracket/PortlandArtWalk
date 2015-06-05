@@ -2,7 +2,7 @@
 Mapping 500 outdoor scuptures in the Portland-Vancouver Metro Area during the summer of 2015
 
 
-On May 14 there were fewer than 50 OSM mapped artworks in Portland  (http://overpass-turbo.eu/s/9v3) OverpassTurbo Query for Portland Artwork tagged nodes...And none had photos.
+On May 14 there were fewer than 50 OSM mapped artworks in Portland [Overpass Turbo Query] (http://overpass-turbo.eu/s/9v3 "target=blank")  for Portland Artwork tagged nodes...And none had photos.
 
 This summer **pdxosgeo** will map and tag at least 500 artworks in Portland, Vancouver, Gresham, Hillsboro. Along the way benches, eateries, pubs, drinking fountains, historical sites and key tourism attractions will get tagged.   
 
@@ -16,7 +16,7 @@ This summer **pdxosgeo** will map and tag at least 500 artworks in Portland, Van
 - Can't attend?  Opportunistically map the sculptures that you know best. Then, the murals, the poetry posts, the lending libraries.
 
 ### Moving FieldNotes to the Map
-After each field trip, each person will be responsible for uploading photos of marked-up fieldpaper.org maps. On the Tuesday evening after each field trip, Katie will be available on a chat and by phone to answer questions or get help. We'll check our progress at the beginning of August.
+After each field trip, each person will be responsible for uploading photos of marked-up fieldpaper.org maps. On the Tuesday evening after each field trip, Katie Urey will be available on a chat and by phone to answer questions or get help. We'll check our progress at the beginning of August.
 
 
 ### A proposed schedule for 2 weeknight and and 2 noon time, outdoor, field trips.
