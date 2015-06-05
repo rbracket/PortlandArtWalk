@@ -2,7 +2,7 @@
 Mapping 500 outdoor scuptures in the Portland-Vancouver Metro Area during the summer of 2015
 
 
-On May 14 there were fewer than 50 OSM mapped artworks in Portland [Overpass Turbo Query] (http://overpass-turbo.eu/s/9v3 "target=blank")  for Portland Artwork tagged nodes...And none had photos.
+On May 14 there were fewer than 50 OSM mapped artworks in Portland per this [Overpass Turbo Query] (http://overpass-turbo.eu/s/9v3) And none had photos.
 
 This summer **pdxosgeo** will map and tag at least 500 artworks in Portland, Vancouver, Gresham, Hillsboro. Along the way benches, eateries, pubs, drinking fountains, historical sites and key tourism attractions will get tagged.   
 
