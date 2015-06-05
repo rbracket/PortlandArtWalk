@@ -15,7 +15,8 @@ This summer **pdxosgeo** will map and tag at least 500 artworks in Portland, Van
 - Stick to nodes- a good first step in learning OSM. Yes, paper is yucky, but this might work...
 - Can't attend?  Opportunistically map the sculptures that you know best. Then, the murals, the poetry posts, the lending libraries.
 
-### For Fieldpapers.org Atlas pages/
+### For Fieldpapers.org Atlas pages
+- A Lloyd District FieldPapers Atlas- assuming a 30 minute walk to collect POI. http://fieldpapers.org/atlases/20xojbnq
 - We need to remember to upload, review and map our notes.  
 
 ### A proposed schedule for 2 weeknight and and 2 noon time, outdoor, field trips.
