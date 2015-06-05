@@ -33,3 +33,4 @@ divvy up quadrants- head out.
 - Monday July 20 - or a date that works for Matt Sayler, meet after work downtown 
 Vancouver. Gab and Go.
 - Monday July 27 - noonish, – 82nd Ave and Division?  Other ideas?
+n
