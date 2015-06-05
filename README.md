@@ -23,7 +23,7 @@ This summer **pdxosgeo** will map and tag at least 500 artworks in Portland, Van
 
 ### A proposed schedule for 2 weeknight and and 2 noon time, outdoor, field trips.
 
-- Monday June 29 - 6PM Lloyd District, meet at Holladay Park. Gab for 10 minutes, divvy up quadrants- head out. Regroup after 1 hour.  Bring a friend.
+- Monday June 29 - 6PM Lloyd District, meet at Holladay Park. Gab for 10 minutes, divvy up quadrants- head out. Regroup after at 7-7:30 at Habesha Ethiopian Restaurant and Bar,801 NE Broadway.  Bring a friend.
 - Monday July 13 - Noonish, Meet MAX Expo Center stop. Work our way back to PDX.
 - Monday July 20 - or a date that works for Matt Sayler, meet after work downtown Vancouver. Gab and Go.
 - Monday July 27 - noonish, – 82nd Ave and Division?  Other ideas?
