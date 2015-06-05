@@ -1,5 +1,5 @@
 # PortlandArtWalk
-Mapping 500 outdoor scuptures in the Portland-Vancouver Metro Area during the summer of 2015
+Mapping 500 outdoor artworks in the Portland-Vancouver Metro Area during the summer of 2015
 
 
 On May 14 there were fewer than 50 OSM mapped artworks in Portland per this [Overpass Turbo Query] (http://overpass-turbo.eu/s/9v3) And none had photos.
