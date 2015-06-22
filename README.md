@@ -16,14 +16,14 @@ This summer **pdxosgeo** will map and tag at least 500 artworks in Portland, Van
 - Can't attend?  Opportunistically map the sculptures that you know best. Then, the murals, the poetry posts, the lending libraries.
 
 ### For Fieldpapers.org Atlas pages
-- A Lloyd District FieldPapers Atlas- assuming a 30 minute walk to collect POI. 
+- A FieldPapers Atlas- assuming a 30 minute walk to collect POI. 
 - http://fieldpapers.org/atlases/20xojbnq
 - http://fieldpapers.org/atlases/42a5smdt
 - We need to remember to upload, review, and then map our notes.  
 
 ### A proposed schedule for 2 weeknight and and 2 noon time, outdoor, field trips.
 
-- Monday June 29 - 6PM Lloyd District, meet at Holladay Park. Gab for 10 minutes, divvy up quadrants- head out. Regroup after at 7-7:30 at Habesha Ethiopian Restaurant and Bar,801 NE Broadway.  Bring a friend.
+- Monday June 29 - 6PM The Portland Building. Gab for 10 minutes, divvy up quadrants- head out. Regroup 8PM.  (We had considered starting at Holladay Park.  However, a Beer Fest will be clearing out on June 29th.
 - Monday July 13 - Noonish, Meet MAX Expo Center stop. Work our way back to PDX.
 - Monday July 20 - or a date that works for Matt Sayler, meet after work downtown Vancouver. Gab and Go.
 - Monday July 27 - noonish, – 82nd Ave and Division?  Other ideas?
