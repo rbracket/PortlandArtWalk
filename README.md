@@ -17,13 +17,15 @@ This summer **pdxosgeo** will map and tag at least 500 artworks in Portland, Van
 
 ### For Fieldpapers.org Atlas pages
 - A FieldPapers Atlas- assuming a 30 minute walk to collect POI. 
-- http://fieldpapers.org/atlases/20xojbnq
-- http://fieldpapers.org/atlases/42a5smdt
+- Lloyd District Atlas  http://fieldpapers.org/atlases/20xojbnq
+- Lloyd District Atlas-2 http://fieldpapers.org/atlases/42a5smdt
+- June 20th, a Along Park Blocks, starting at Portlandia. http://fieldpapers.org/atlases/3luftup4
 - We need to remember to upload, review, and then map our notes.  
 
 ### A proposed schedule for 2 weeknight and and 2 noon time, outdoor, field trips.
 
-- Monday June 29 - 6PM The Portland Building. Gab for 10 minutes, divvy up quadrants- head out. Regroup 8PM.  (We had considered starting at Holladay Park.  However, a Beer Fest will be clearing out on June 29th.
-- Monday July 13 - Noonish, Meet MAX Expo Center stop. Work our way back to PDX.
+- Monday June 29 - 6PM The Portland Building under Portlandia statue. Gab for 10 minutes, divvy up quadrants- head out. Regroup 8PM.  Test run.  Few participants expected-- I did not publicize.
+- Monday July 6 -  6PM The Portland Building under Portlandia statue. Gab for 10 minutes, divvy up quadrants- head out.
+- Monday July 13 - Noonish, Meet MAX Expo Center stop (tentative idea- wil tweak to work with Babies and strollers.) Work our way back to PDX.
 - Monday July 20 - or a date that works for Matt Sayler, meet after work downtown Vancouver. Gab and Go.
 - Monday July 27 - noonish, – 82nd Ave and Division?  Other ideas?
