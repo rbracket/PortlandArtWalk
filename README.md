@@ -20,7 +20,10 @@ This summer **pdxosgeo** will map and tag at least 500 artworks in Portland, Van
 - Lloyd District Atlas  http://fieldpapers.org/atlases/20xojbnq
 - Lloyd District Atlas-2 http://fieldpapers.org/atlases/42a5smdt
 - June 20th, a Along Park Blocks, starting at Portlandia. http://fieldpapers.org/atlases/3luftup4
-- We need to remember to upload, review, and then map our notes.  
+- We need to remember to upload, review, and then map our notes.
+- 
+
+### Notes and Handouts about tagging and to record more detail than fits on fieldpaper atlas pages.
 
 ### A proposed schedule for 2 weeknight and and 2 noon time, outdoor, field trips.
 
